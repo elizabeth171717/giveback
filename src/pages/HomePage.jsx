@@ -24,9 +24,8 @@ function HomePage() {
 
     return(
     <div className="home-page">
-          <h1><span style={{color: "#e66a00",}}>G</span>IVE <span style={{color: "#e66a00",}}>B</span>ACK</h1>
-          <h2 className="subtitle">Giving back is how communities grow stronger.</h2>
-    <p className="sub-heading"> DISCOVER and SUPPORT nonprofit organizations making a meaningful impact in our communities.</p>
+          <h1><span style={{color: "#e66a00",}}>G</span>IVE <span style={{color: "#e66a00",}}>B</span>ACK <span style={{color: "#e66a00",}}>N</span>OW</h1>
+              <p className="sub-heading"> DISCOVER and SUPPORT nonprofit organizations making a meaningful impact in our communities.</p>
     <div className="search-bar-container">
      <input
         type="text"
