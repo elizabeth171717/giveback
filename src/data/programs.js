@@ -2,10 +2,8 @@ const programs = [
   {
     id: 1,
     name: "BUFORD HIGHWAY ORCHESTRA",
-    descrition:`Launched in 2021, the Buford Highway Orchestra Project (BHOP)
-is a free after-school and weekend enrichment program that provides high-quality
-string instrument instruction to children in 3rd–8th grade, primarily from Title
-I schools in DeKalb County Region I`,
+    descrition:`Free after-school and weekend enrichment program that provides high-quality
+string instrument instruction to children in 3rd–8th grade.`,
     categories: ["children", "music", "buford hwy", "education", "scholarship", "students", "immigrants"],
     link:"https://welovebuhi.org/buford-highway-orchestra-project",
   },
